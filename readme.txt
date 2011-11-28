@@ -1,0 +1,1 @@
+555 timer configured as an astable multivibrator. simple timer - two pots control duty cycle pulsing LEDs on low and high periods
